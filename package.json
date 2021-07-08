@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-poloader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Rollup plugin which converts po file to json ready to use with the Jed",
   "scripts": {
     "build": "rollup -c",
@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@rollup/pluginutils": "^4.1.0",
-    "po2json": "^0.4.5"
+    "po2json": "1.0.0-alpha"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^18.1.0",

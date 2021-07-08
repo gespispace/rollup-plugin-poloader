@@ -10,3 +10,4 @@ coverage.lcov
 pnpm-debug.log
 .idea
 .rollup.cache
+yarn-error.log
