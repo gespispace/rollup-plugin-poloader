@@ -54,7 +54,7 @@ If `true`, the resulting JSON string will be pretty-printed. Has no effect when 
 
 ### `format`
 Type: `String` <br>
-Default: `raw`
+Default: `jed`
 
 * `raw` produces a "raw" JSON output.
 * `jed` produces an output that is 100% compatible with Jed >= 1.1.0
